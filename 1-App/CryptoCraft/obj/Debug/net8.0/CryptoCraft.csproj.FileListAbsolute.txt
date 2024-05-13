@@ -1,0 +1,11 @@
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\bin\Debug\net8.0\CryptoCraft.deps.json
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\bin\Debug\net8.0\CryptoCraft.dll
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\bin\Debug\net8.0\CryptoCraft.pdb
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\obj\Debug\net8.0\CryptoCraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\obj\Debug\net8.0\CryptoCraft.AssemblyInfoInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\obj\Debug\net8.0\CryptoCraft.AssemblyInfo.cs
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\obj\Debug\net8.0\CryptoCraft.csproj.CoreCompileInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\obj\Debug\net8.0\CryptoCraft.dll
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\obj\Debug\net8.0\refint\CryptoCraft.dll
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\obj\Debug\net8.0\CryptoCraft.pdb
+C:\Users\emred\OneDrive\Masaüstü\IDentyAuth\1-App\CryptoCraft\obj\Debug\net8.0\ref\CryptoCraft.dll
